@@ -10,7 +10,7 @@
   "config.hotbarswapper.prop.requireSwapKeyForSlot.name": "スロット切替にホットバーキー必須",
   "config.hotbarswapper.prop.requireSwapKeyForSlot.desc": "スロットを切り替えるとき、ホットバー切替キーを押し続けるかどうか",
   "config.hotbarswapper.prop.ignoreEmptySlots.name": "空スロットを無視",
-  "config.hotbarswapper.prop.ignoreEmptySlots.desc": "切り替える行やスロットを選ぶとき、空のスロットを無視するかどうあｋ",
+  "config.hotbarswapper.prop.ignoreEmptySlots.desc": "切り替える行やスロットを選ぶとき、空のスロットを無視するかどうか",
   "config.hotbarswapper.prop.ignoredSlots.name": "無視するスロット",
   "config.hotbarswapper.prop.ignoredSlots.desc": "行やスロットを切り替える際に無視されるスロット（スロットは 0, 1, 2...8 で数えられます）\\n\\nスロットを追加/削除するには、スロット切替キーを押しながら行切替キーを押してください",
   "config.hotbarswapper.prop.invertScrollDirection.name": "スクロール方向を反転",
